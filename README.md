@@ -2,7 +2,7 @@
 
 A responsive React marketplace for reclaimed construction materials, with a silver-and-ink architectural editorial identity.
 
-The interface includes a full-width architectural hero, floating navigation, asymmetrical material catalog, interactive texture samples, saved collections, and reduced-motion fallbacks. Fonts and visual assets are bundled locally. Runway was not available in the development session; interface animation uses Motion, and architectural artwork was generated using the available image tool.
+The interface includes a full-width architectural hero, floating navigation, asymmetrical material catalog, interactive texture samples, saved collections, and reduced-motion fallbacks. The architectural hero slowly drifts and a seamless texture ribbon circulates continuously. A shared Pause motion control stops both effects; hovering the ribbon pauses it, and system reduced-motion preferences disable the continuous animations. Fonts and visual assets are bundled locally. Runway was not available in the development session; interface animation uses Motion, and architectural artwork was generated using the available image tool.
 
 ## Develop
 

@@ -1,8 +1,8 @@
 # Reform · Urban Material Bank
 
-A responsive React marketplace for reclaimed construction materials, designed as a light architectural material library with a cobalt identity.
+A responsive React marketplace for reclaimed construction materials, with a silver-and-ink architectural editorial identity.
 
-The interface includes an interactive timber, brick, and stone sample explorer, animated gallery imagery, saved collections, responsive material browsing, scroll progress, and reduced-motion fallbacks.
+The interface includes a full-width architectural hero, floating navigation, asymmetrical material catalog, interactive texture samples, saved collections, and reduced-motion fallbacks. Fonts and visual assets are bundled locally. Runway was not available in the development session; interface animation uses Motion, and architectural artwork was generated using the available image tool.
 
 ## Develop
 

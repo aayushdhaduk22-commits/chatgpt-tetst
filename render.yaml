@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: reform-material-bank
+    runtime: static
+    buildCommand: npm ci --cache /tmp/urban-npm-cache && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

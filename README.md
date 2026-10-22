@@ -1,8 +1,8 @@
 # Reform · Urban Material Bank
 
-A responsive React marketplace for reclaimed construction materials, redesigned with a graphite and orange industrial identity.
+A responsive React marketplace for reclaimed construction materials, redesigned as a cinematic dark catalog with red accents.
 
-The interface includes masked headline reveals, scroll-linked material photography, an animated material ticker, scroll progress, staggered card transitions, and reduced-motion fallbacks.
+The interface includes a cinematic featured material, horizontally scrolling collections with navigation controls, My List, animated card previews, scroll progress, and reduced-motion fallbacks.
 
 ## Develop
 
